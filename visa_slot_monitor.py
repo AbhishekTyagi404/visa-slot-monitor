@@ -18,7 +18,7 @@ EXCEL_PATH = "visa_slot_log.xlsx"
 TEXT_LOG = "text.txt"
 
 SENDER_EMAIL = "sender-email@gmail.com"
-SENDER_PASSWORD = "pjkronwbenrslfdh"
+SENDER_PASSWORD = "your-app-password"
 RECEIVER_EMAILS = [
     "reciever-email1@gmail.com",
     "reciever-email2@gmail.com"
